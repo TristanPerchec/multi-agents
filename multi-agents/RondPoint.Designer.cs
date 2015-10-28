@@ -1,6 +1,6 @@
 ﻿namespace multi_agents
 {
-    partial class Form1
+    partial class RondPoint
     {
         /// <summary>
         /// Variable nécessaire au concepteur.
@@ -28,9 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(RondPoint));
+            this.SuspendLayout();
+            // 
+            // RondPoint
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(546, 474);
+            this.Name = "RondPoint";
+            this.Text = "RondPoint";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

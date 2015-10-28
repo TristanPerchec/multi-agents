@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace multi_agents
 {
-    public partial class Form1 : Form
+    public partial class RondPoint : Form
     {
-        public Form1()
+        public RondPoint()
         {
             InitializeComponent();
         }
