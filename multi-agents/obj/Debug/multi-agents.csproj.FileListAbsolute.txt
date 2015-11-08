@@ -2,8 +2,13 @@ c:\users\tperc\documents\visual studio 2013\Projects\multi-agents\multi-agents\b
 c:\users\tperc\documents\visual studio 2013\Projects\multi-agents\multi-agents\bin\Debug\multi-agents.exe
 c:\users\tperc\documents\visual studio 2013\Projects\multi-agents\multi-agents\bin\Debug\multi-agents.pdb
 c:\users\tperc\documents\visual studio 2013\Projects\multi-agents\multi-agents\obj\Debug\multi-agents.csprojResolveAssemblyReference.cache
-c:\users\tperc\documents\visual studio 2013\Projects\multi-agents\multi-agents\obj\Debug\multi_agents.RondPoint.resources
 c:\users\tperc\documents\visual studio 2013\Projects\multi-agents\multi-agents\obj\Debug\multi_agents.Properties.Resources.resources
 c:\users\tperc\documents\visual studio 2013\Projects\multi-agents\multi-agents\obj\Debug\multi-agents.csproj.GenerateResource.Cache
 c:\users\tperc\documents\visual studio 2013\Projects\multi-agents\multi-agents\obj\Debug\multi-agents.exe
 c:\users\tperc\documents\visual studio 2013\Projects\multi-agents\multi-agents\obj\Debug\multi-agents.pdb
+C:\Users\tperc\Documents\Visual Studio 2013\Projects\multi-agents\multi-agents\obj\Debug\multi-agents_MarkupCompile.cache
+C:\Users\tperc\Documents\Visual Studio 2013\Projects\multi-agents\multi-agents\obj\Debug\RondPointWindow.g.cs
+C:\Users\tperc\Documents\Visual Studio 2013\Projects\multi-agents\multi-agents\obj\Debug\multi-agents_MarkupCompile.lref
+C:\Users\tperc\Documents\Visual Studio 2013\Projects\multi-agents\multi-agents\obj\Debug\App.g.cs
+C:\Users\tperc\Documents\Visual Studio 2013\Projects\multi-agents\multi-agents\obj\Debug\RondPointWindow.baml
+C:\Users\tperc\Documents\Visual Studio 2013\Projects\multi-agents\multi-agents\obj\Debug\multi-agents.g.resources
